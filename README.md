@@ -1,2 +1,5 @@
-# yeslettuce-client
-Mobile client interface for app.
+# Client
+
+> Mobile client for Yes, Lettuce!
+
+Uses Facebook react.
