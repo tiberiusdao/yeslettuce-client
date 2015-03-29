@@ -39,10 +39,22 @@ Relevant links:
 
 Yes, Lettuce!
 
+input:
+- none
+
+output:
+- none
+
 #### auth
 
 fb button
 uber button
+
+input:
+- none
+
+output:
+- json about user
 
 `POST` to endpoint
 
@@ -60,7 +72,11 @@ Age:
 
 18 to 35
 
-`POST` to endpoint
+input:
+- `userId`
+
+output:
+- 
 
 #### select date
 
@@ -70,17 +86,22 @@ Age:
 
 [beer]
 
+input:
+
+output:
+- user info
+
 #### game!
 
 [web sockets]
 
-data to get
-
+input:
 - stack of cards
 - each card has photo[s], name, age, bio
 - swipe left or right
 
-data to send
+output:
+- like: `true`, `userId`
 
 #### chat!
 
@@ -98,4 +119,23 @@ button to go back to chat?
 
 can cancel?
 
+
+## STUFF
+
+geolocation
+
+push notifications
+
+pan responder for swiping
+
+image
+
+slider
+
+switchios
+
+touchable 
+
+textinput
+text
 
